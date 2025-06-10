@@ -48,14 +48,3 @@ A simple desktop application for converting amounts between different currencies
 - Java
 - AWT (Abstract Window Toolkit)
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and open a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README for your needs!
