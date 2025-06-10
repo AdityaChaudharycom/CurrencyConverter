@@ -43,6 +43,17 @@ A simple desktop application for converting amounts between different currencies
 3. Select the source and target currencies from the dropdowns.
 4. Click "Convert" to see the result.
 
+---  
+## 🚀 Features
+
+- Convert between 11 international currencies.
+- Dynamic swapping of currencies.
+- Input validation and clear error messages.
+- Clean, modular code with separation of logic and UI.
+- Clear and centered GUI using GridBagLayout.
+
+---  
+
 ## Technologies Used
 
 - Java
